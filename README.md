@@ -1,6 +1,6 @@
 # React com Http
 
-Projeto em React com exemplo de requisições HTTP com Fecth API.
+Projeto em React com exemplo de requisições HTTP com Fecth API e utilizando React Hooks.
 
 ## Instalar dependencias
 
